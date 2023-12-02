@@ -2,7 +2,7 @@ import logging
 import os
 
 from flask import Flask, request, render_template
-from google.cloud import storage
+#from google.cloud import storage
 
 app = Flask(__name__)
 
